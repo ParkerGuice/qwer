@@ -1,0 +1,6 @@
+if (madeira == cool){
+    console.writeline("have_fun");
+}
+else{
+    console.writeline("L");
+}
